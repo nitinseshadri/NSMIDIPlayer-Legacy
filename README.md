@@ -1,2 +1,3 @@
-# NSMIDIPlayer-Legacy
-Download page for old versions of NS MIDI Player
+# Old versions of NS MIDI Player
+
+To download, go to the [Releases](https://github.com/nitinseshadri/NSMIDIPlayer-Legacy/releases) tab.
